@@ -1,0 +1,52 @@
+.tile {
+  width:50px;
+  height:50px;
+  vertical-align: top;
+  font-size: 25px;
+}
+
+#row1, #row2, #row3 {
+
+}
+
+
+header {
+  background-color: black;
+  height : 50px; 
+  text-align: center;
+  font-size: 20px;
+  color: white; 
+
+
+
+
+
+  
+}
+
+
+button{
+background: #5b1e5b;
+color:white;
+}
+
+
+
+
+
+
+
+
+
+footer {
+  background-color:black;
+  height : 80px;
+  text-align: center;
+  color: white;
+width:`1000px;
+}
+
+
+
+
+
